@@ -1,4 +1,4 @@
-# Unity-Enki-sTool-MaterialCopy
+# Unity-EnkiTool-MaterialCopy
 
 ##  用途
 
