@@ -4,7 +4,7 @@
 
 MaterialCopy 是一个用于在 Unity 中快速将模型之间的材质引用进行复制的工具。它可以帮助您轻松处理模型之间的材质复制，以提高工作效率。
 
-![GIF 2023-10-15 8-44-11.gif](attachment:c33464f2cf081a59776b7f1f0c483cc5)
+![image](https://github.com/Enkianssus/Unity-Enki-sTool-MaterialCopy/blob/main/README/c33464f2cf081a59776b7f1f0c483cc5.gif)
 
 ## 使用步骤
 
